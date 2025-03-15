@@ -1,0 +1,12 @@
+/transcribing/audio/
+/transcribing/splitted_speaker_files/
+/.python-version
+/voice_cloning/output/
+/voice_cloning/voices/
+
+.DS_Store
+.idea/
+transcribing/.DS_Store
+transcribing/__pycache__/
+voice_cloning/.DS_Store
+
